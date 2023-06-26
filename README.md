@@ -1,0 +1,2 @@
+# pokomon_classification
+学习pytorch深度学习敲得，训练自己数据集
